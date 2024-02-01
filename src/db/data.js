@@ -3,7 +3,7 @@ import { AiFillStar } from "react-icons/ai";
 const data = [
   {
     img: "https://img101.urbanic.com/v1/goods-pic/88928ee1a7c94abe98be214918c81b09UR_w1440_q90.webp",
-    title: "Channel Bodycon Dress",
+    title: "Channel Bodycon Blue Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -14,7 +14,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/3362e7eb60a24fb0a13562cf45ae8631UR_w1440_q90.webp",
-    title: "Channel Emroidered Bodycon Dress ",
+    title: "Channel Embroidered Bodycon Red Dress ",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -26,7 +26,7 @@ const data = [
 
   {
     img: "https://img101.urbanic.com/v1/goods-pic/44d9274cc1994b229f5268df332a08e8UR_w1440_q90.webp",
-    title: "Gucci Sequinned Body Con dress",
+    title: "Gucci Sequinned Red Body Con dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -37,7 +37,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/3d99c794e61d4d448baea0a7de713ccbUR_w750_q90.webp",
-    title: "Gucci Black Bodycon Dress",
+    title: "Gucci Black Black Bodycon Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -48,7 +48,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/ccd0427544514a9585cba666db9a0943UR_w750_q90.webp",
-    title: "Burberry Sequined Maxi Dress",
+    title: "Burberry Black Sequined Maxi Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -83,7 +83,7 @@ const data = [
 
   {
     img: "https://img101.urbanic.com/v1/goods-pic/3684b8b2b4f8451a9fe276191627593dUR_w750_q90.webp",
-    title: "Channel Slit Bodycon Dress",
+    title: "Channel Slit Brown Bodycon Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -107,7 +107,7 @@ const data = [
 
   {
     img: "https://img101.urbanic.com/v1/goods-pic/3998159cbd4c4fd097726fd5b9f58c49UR_w750_q90.webp",
-    title: "Prada Devil Dress",
+    title: "Prada Black Devil Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -140,7 +140,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/d2193f00566e4a57b9b66ec656775ba5UR_w750_q90.webp",
-    title: "Prada Drawstring Satin Dress",
+    title: "Prada Drawstring White Satin Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -163,7 +163,7 @@ const data = [
 
   {
     img: "https://img101.urbanic.com/v1/goods-pic/6f771d9125834630a9050830dfa77fe7UR_w750_q90.webp",
-    title: "Burberry Maxi Dress",
+    title: "Burberry Green Maxi Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -174,7 +174,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/658752844316483cb691039b8dad3da1UR_w750_q90.webp",
-    title: "Burberry Ruffled Maxi Dress",
+    title: "Burberry Green Ruffled Maxi Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -185,7 +185,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/f7c64402bb624712bc8047afee85773aUR_w1440_q90.webp",
-    title: "Burberry Satin Slip Dress",
+    title: "Burberry White Satin Slip Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -207,7 +207,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/670891029d9f43ecba6d93762c26bca7UR_w750_q90.webp",
-    title: "Channel Rhinestone Slip Dress",
+    title: "Channel Black Rhinestone Slip Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -218,7 +218,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/d2f7b8a84c2e4ddfa96b080cde809954UR_w750_q90.webp",
-    title: "Gucci Floral A Line Dress",
+    title: "Gucci Floral Green A Line Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -229,7 +229,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/91cb9ef454ca48acbd7b113e791f76c7UR_w750_q90.webp",
-    title: "Channel A Line Dress",
+    title: "Channel Red A Line Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -240,7 +240,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/a33e0368b091406ea98974ce90ff4b8cUR_w750_q90.webp",
-    title: "Gucci Pleated A Line Dress",
+    title: "Gucci Red Pleated A Line Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -251,7 +251,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/a17aa336758d4a77992d8c1fa1650288UR_w750_q90.webp",
-    title: "Gucci Off Shoulder Bodycon Dress",
+    title: "Gucci Off Shoulder White Bodycon Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -263,7 +263,7 @@ const data = [
 
   {
     img: "https://img101.urbanic.com/v1/goods-pic/b5c07f68806e44dc99dcb6d5954b9356UR_w750_q90.webp",
-    title: "Channel Coctail A line Dress",
+    title: "Channel Coctail Red A line Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -274,7 +274,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/9957799e0de9474fab1a2af9994e3dd1UR_w750_q90.webp",
-    title: "Gucci Ruffled A Line Dress",
+    title: "Gucci Ruffled Blue A Line Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -285,7 +285,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/23bb1974686041ef8e33c3aad40c15b3UR_w750_q90.webp",
-    title: "Gucci Rhinestone Slip Dress Pink",
+    title: "Gucci Rhinestone Pink Slip Dress Pink",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -296,7 +296,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/7530ea1ee657441a876d7746b4c331ccUR_w750_q90.webp",
-    title: "Gucci Bow Bodycon Dress",
+    title: "Gucci Bow Green Bodycon Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",
@@ -307,7 +307,7 @@ const data = [
   },
   {
     img: "https://img101.urbanic.com/v1/goods-pic/69b3f95f642c427bb90f3aedb715c27cUR_w750_q90.webp",
-    title: "Gucci Tube Maxi Dress",
+    title: "Gucci Tube Black Maxi Dress",
     star: <AiFillStar className="rating-star" />,
     reviews: "(123 reviews)",
     prevPrice: "$140,00",

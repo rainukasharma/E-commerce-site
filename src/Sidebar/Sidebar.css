@@ -18,6 +18,7 @@
 .site-name{
   font-family: 'Great Vibes', cursive;
   font-style: italic;
+  margin:2%;
 }
 
 .sidebar:hover {
